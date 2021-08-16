@@ -1,0 +1,25 @@
+{
+  "name": "PokeAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarleeG/PokeAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarleeG/PokeAPI/issues"
+  },
+  "homepage": "https://github.com/MarleeG/PokeAPI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^8.1.2"
+  }
+}
